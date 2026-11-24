@@ -7,3 +7,6 @@ Stáhněte index.html a otevřete ho v prohlížeči. Nic se neinstaluje.
 
 ## Autor
 Tomáš Waidinger – [waidinger.cz](https://www.waidinger.cz)
+
+## Licence
+MIT – hru můžete hrát, šířit i upravovat, jen zachovejte jméno autora. Viz soubor LICENSE.
